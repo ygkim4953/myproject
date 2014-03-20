@@ -4,7 +4,7 @@
 # Author.: Tom Stoeveken (TST)
 # Version: 0.3
 # License: GPL
-#
+# TEST
 ###############################################################
 
 CC = gcc
